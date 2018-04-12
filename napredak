@@ -1,0 +1,10 @@
+zavrsio 207. lekciju
+
+problem kod projekta
+prilikom dodavanja novog usera slika se ne dodaje u bazu sa slikama 
+samo se dodaje putanja kod usera
+pogledati fajl upload.php
+
+dodati poruku kad se doda komentar na sliku
+
+dodati funkcionalnost brisanja prekontrolisati na svi stranicama
